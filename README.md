@@ -15,6 +15,8 @@ Design, implement, test, and debug a program that reads the file you created by 
 and displays the records in a JFrame. You may either display all entries in the list at once 
 or display them one at a time; the user interface is up to you. Protect against not being able to open the file.
 
+To run the program
+CommissoinCalc1/CommissoinCalc1.jar 
 
 ContactInformationProgram\part1\src 
 &
