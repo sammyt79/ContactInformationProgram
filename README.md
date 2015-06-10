@@ -16,8 +16,8 @@ and displays the records in a JFrame. You may either display all entries in the 
 or display them one at a time; the user interface is up to you. Protect against not being able to open the file.
 
 To run the program
-CommissoinCalc1/CommissoinCalc1.jar 
 
-ContactInformationProgram\part1\src 
-&
-ContactInformationProgram\part1\src to view the code
+Contact Information Program/Part1/dist/Part1.jar
+
+Contact Information Program/Part2/dist/Part2.jar
+
