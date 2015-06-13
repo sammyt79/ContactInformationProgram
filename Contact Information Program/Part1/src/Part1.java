@@ -49,7 +49,7 @@ public class Part1 extends JFrame {
         super("Contact Information Program");
 
         // Creates a text file named ContactData.
-        this.outputFile = new PrintWriter("../ContactData.txt");
+        this.outputFile = new PrintWriter("../../ContactData.txt");
 
         // Specify an action for the close button.
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

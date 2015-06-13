@@ -109,7 +109,7 @@ public class Part2 extends JFrame {
             try {
                 
                 // Create file scanner.
-                input = new Scanner(new File("../ContactData.txt"));
+                input = new Scanner(new File("../../ContactData.txt"));
 
                 // Display all available data.
                 while (input.hasNext()) {
