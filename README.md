@@ -17,7 +17,9 @@ or display them one at a time; the user interface is up to you. Protect against 
 
 To run the program
 
-Contact Information Program/Part1/dist/Part1.jar
+Download and unzip "Contact Information Program.zip"
 
-Contact Information Program/Part2/dist/Part2.jar
+Run "Part1.jar" to save data to file - Contact Information Program\Part1\dist\Part1.jar
+
+Run "Part2.jar" to view the contents of the file - Contact Information Program\Part2\dist\Part2.jar
 
